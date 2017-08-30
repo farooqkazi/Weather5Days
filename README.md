@@ -1,4 +1,4 @@
-# Wipro_AndroidTest
+# Weather for 5 days in London
 Get the weather information for five days test
 
 # Deadline/ Time Taked<b></br>
@@ -24,7 +24,7 @@ In Android Studio, click in File menu, then import project, browse to code locat
 
 # Technologies Used<b></br>
 1 Mockito: Test presenters/interactions in MVP design pattern</br>
-2 Espresso UI Test: Test fragments/ recyclerviee data loading. The Espresso testing framework, provided by the Android Testing Support Library, provides APIs for writing UI tests to simulate user interactions within a single target app.</br>
+2 Espresso UI Test: Test fragments/ recyclerview data loading. The Espresso testing framework, provided by the Android Testing Support Library, provides APIs for writing UI tests to simulate user interactions within a single target app.</br>
 3 Dependency injection: Used dagger to inject presenters into the fragments and inject RequestInterface(Retrofit/offline caching in okhttpi)in Interactor_Impl class </br> 
 4 RxJava 2: Used reactive programming for concurrency / asynchronous data streams/ chain async operations / Multi threading using schedulers/ Disposable to avoid memory leaks in the apps
 5 Retrofit2/okhttp: Connection to external API
@@ -33,4 +33,3 @@ In Android Studio, click in File menu, then import project, browse to code locat
 8 Offline Caching: Cache network requests for offline access with Retrofit2 and OkHTTP3 tags.</br> 
 
 ![image](https://preview.ibb.co/cwJOra/device_2017_08_14_011602.png)
-# Weather5Days
