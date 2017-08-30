@@ -1,9 +1,6 @@
 # Weather for 5 days in London
 Get the weather information for five days test
 
-# Deadline/ Time Taked<b></br>
-4hrs as per guidelines 
-
 # Checklist<b></br>
 1 Working forecast app as per requirements : Completed
 2 How to run / build / test project
